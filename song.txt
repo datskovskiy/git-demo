@@ -6,10 +6,4 @@ end
 New text
 Test text
 
-Some content here
-------------------------------------
-
-Text Text
-Test text
-
-------------------------------------
+content to be saved
